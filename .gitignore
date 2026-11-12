@@ -1,0 +1,17 @@
+# Objetos de compilación y ejecutables
+bin/
+obj/
+**/bin/
+**/obj/
+*.o
+*.obj
+*.exe
+
+# Archivos de configuración y layout de IDEs
+*.layout
+*.depend
+.vscode/
+.idea/
+
+# Archivos de logs locales generados por pruebas
+service_errors.log
